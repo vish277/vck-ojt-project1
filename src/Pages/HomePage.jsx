@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from '../Components/header/Header';
 import banner from '../assets/images/vckbanner.jpg';
-import campus from '../assets/images/students-studying-DbLGuwF_.jpeg';
-import campus1 from '../assets/images/Campus-life-Crkero7B.jpg';
+import campus1 from '../assets/images/students-studying-DbLGuwF_.jpeg';
+import campus from '../assets/images/Campus-life-Crkero7B.jpg';
  
 import './Home.css';
 
