@@ -12,8 +12,9 @@ const Header = () => {
                       <Link to="/about" className="nav-link">About</Link>
                       <Link to="/courses" className="nav-link">Courses</Link>
                       <Link to="/contact" className="nav-link">Contact</Link>
-                      <Link to="/addmission"></Link>
-                      <Link to="/addmision" id="apply-btn"><button className="btn"><span> Apply Now!</span></button></Link>
+                      <Link to="/admission"></Link>
+                      <Link to="/admission" id='apply-btn' data-discover="true"><button id="btn">Apply Now!</button>
+                      </Link>
                     </div>
             </nav>
         </header>
