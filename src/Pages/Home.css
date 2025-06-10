@@ -17,6 +17,7 @@
 
 }
 
+ 
 #image {
 position: relative;
 height: 45vh;
@@ -30,6 +31,7 @@ background-position: center  center;
 background-repeat: no-repeat;
 color: white;
 }
+
 .college-image {
     background-image: url( 'https://VCK.codewonders.in/assets/.college-banner-Cz0xylpt.png');
 }
