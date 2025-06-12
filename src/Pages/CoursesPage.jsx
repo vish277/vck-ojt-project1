@@ -14,7 +14,8 @@ const CoursesPage = () => {
                 <hr/>
 
                 <video width="640" height="360" controls>
-                    <source src="/day5/course.mp4" type="video/mp4"/>
+                     
+                    <source src= "/day5/course.mp4" type="video/mp4" />
                 </video>
 
 

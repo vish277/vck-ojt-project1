@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Header from '../Components/header/Header';
 import banner from '../assets/images/vckbanner.jpg';
 import campus1 from '../assets/images/students-studying-DbLGuwF_.jpeg';
-import campus from '../assets/images/campus-life-Crkero7B.jpg';
+import campus from '../assets/images/campus.jpg';
  
 import './Home.css';
 
@@ -36,9 +36,10 @@ const HomePage = () => {
                </ul>
                <h2>Campus Life & Facilities</h2>
                <hr/>
-
-                <img src={campus} alt="college campus img" className='campus-image' height={200}   />
+                <ul> 
                 <img src={campus1} alt="college campus img" className='campus-image' height={200} width={450} />
+                <img src={campus} alt="college campus img" className='campus-image' height={150}   />
+                </ul>
                <div>
 
                     <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p><br/>
